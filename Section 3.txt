@@ -1,3 +1,5 @@
 Big O 
 
 What is the function Big O 
+
+O(n) big of notation
