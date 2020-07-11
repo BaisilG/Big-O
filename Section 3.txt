@@ -54,4 +54,8 @@ function anotherFunChallenge(input) {
   }
   for (let j = 0; j < input; j++) {
     let p = j * 2;
-  
+    let q = j * 2;
+  }
+  let whoAmI = "I don't know";
+}
+
