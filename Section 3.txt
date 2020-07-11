@@ -15,3 +15,6 @@ fucntion compressAllBoxes(boxes){
 body
 }
 
+
+O(n) 
+
