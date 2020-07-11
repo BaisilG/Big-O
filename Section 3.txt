@@ -5,3 +5,5 @@ What is the function Big O
 O(n) big of notation
 
 n is the O is depended on the fish 
+
+Big o Comlexity Chart
