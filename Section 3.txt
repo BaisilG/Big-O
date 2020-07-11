@@ -23,4 +23,5 @@ O(n) - Linear Time
 
 Example: 
 
-
+function funChallenge(input) {
+  
