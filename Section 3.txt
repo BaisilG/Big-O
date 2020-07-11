@@ -33,7 +33,8 @@ let a = 10;
 anotherFunction();
 let stranger = true;
     a++;
-
+  }
+  return a;
     
 }
 
