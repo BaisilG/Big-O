@@ -9,3 +9,7 @@ n is the O is depended on the fish
 Big o Comlexity Chart
 
 if we have input, function and output 
+
+fucntion compressAllBoxes(boxes){
+
+}
