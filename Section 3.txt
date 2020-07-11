@@ -12,4 +12,6 @@ if we have input, function and output
 
 fucntion compressAllBoxes(boxes){
 
+body
 }
+
