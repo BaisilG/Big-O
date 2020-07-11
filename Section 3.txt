@@ -51,5 +51,6 @@ function anotherFunChallenge(input) {
     let y = i + 2;
     let z = i + 3;
 
- 
-
+  }
+  for (let j = 0; j < input; j++) {
+    
