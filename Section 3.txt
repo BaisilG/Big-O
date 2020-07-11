@@ -43,4 +43,8 @@ let stranger = true;
 
 // What is the Big O of the below function? (Hint, you may want to go line by line)
 function anotherFunChallenge(input) {
-  
+  let a = 5;
+  let b = 10;
+  let c = 50;
+
+
